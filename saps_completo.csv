@@ -1,0 +1,36 @@
+﻿descripcion,geo_saps,turnos_web,turnos_pre,medicina general,kinesiologia,enfermeria,odontologia,ginecologia,pediatria,clinica_medica,nutricion,obstetricia,cardiologia,laboratorio,psicología
+S.A.P.S. Dr. Sussini,"{""type"":""Point"",""coordinates"":[-58.8476200920408,-27.4739247821531]}",si,si,si,si,si,si,si,si,si,si,no,no,no,no
+S.A.P.S. Dr. Santiago Lorenzo,"{""type"":""Point"",""coordinates"":[-58.7926458007243,-27.5005159709291]}",si,si,si,si,si,si,si,no,no,no,no,no,no,no
+S.A.P.S. Dr. Korimblum,"{""type"":""Point"",""coordinates"":[-58.8105592384377,-27.4963014944356]}",no,si,si,no,si,si,si,no,no,no,no,no,no,no
+S.A.P.S. Dr. A. Malvido,"{""type"":""Point"",""coordinates"":[-58.7825114296083,-27.5045956198145]}",si,si,si,no,si,si,si,si,si,no,si,no,no,no
+S.A.P.S. Paso martinez,"{""type"":""Point"",""coordinates"":[-58.65782542638,-27.5165440876048]}",no,si,no,no,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Bo Rio Parana,"{""type"":""Point"",""coordinates"":[-58.8287446749592,-27.5152024029]}",no,si,no,si,si,si,no,no,si,no,no,no,no,no
+S.A.P.S. Dr. Semper,"{""type"":""Point"",""coordinates"":[-58.7825444574904,-27.4596026190976]}",no,si,si,si,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Bo Guemes,"{""type"":""Point"",""coordinates"":[-58.7967643332789,-27.4861776634717]}",no,si,si,si,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Santa Catalina,"{""type"":""Point"",""coordinates"":[-58.8041366710416,-27.5261212859953]}",si,si,no,no,si,no,si,no,no,no,no,no,no,no
+"S.A.P.S. Manuel Gonzalez, Bo Lomas del Mirador","{""type"":""Point"",""coordinates"":[-58.767660988807,-27.4844118032146]}",,,,,,,,,,,,,,
+S.A.P.S. Dr. R. Vidal,"{""type"":""Point"",""coordinates"":[-58.7642248181804,-27.4925055009408]}",,,,,,,,,,,,,,
+S.A.P.S. Bo Pujol,"{""type"":""Point"",""coordinates"":[-58.8059160563217,-27.4674227378732]}",no,si,si,si,si,no,no,no,no,no,no,no,no,no
+S.A.P.S. Dr. Calmansh,"{""type"":""Point"",""coordinates"":[-58.8471439393876,-27.4944210171644]}",,,,,,,,,,,,,,
+S.A.P.S. Dr. Guillermo Rawson,"{""type"":""Point"",""coordinates"":[-58.7883404875771,-27.4765040453677]}",si,si,si,si,si,si,no,no,no,no,no,si,si,no
+S.A.P.S. Dr. Manuel A. Gonzalez,"{""type"":""Point"",""coordinates"":[-58.7907228148681,-27.4570744530951]}",no,si,si,si,si,si,no,si,no,no,no,no,no,no
+S.A.P.S. Villa Garcia,"{""type"":""Point"",""coordinates"":[-58.8024184870106,-27.4779407818987]}",no,si,si,si,si,si,no,no,no,no,si,no,no,no
+S.A.P.S. Bo Quinta Ferre,"{""type"":""Point"",""coordinates"":[-58.8065482148328,-27.4633434254442]}",no,si,si,si,si,si,no,no,no,no,si,no,no,no
+S.A.P.S. Bo Primera Junta,"{""type"":""Point"",""coordinates"":[-58.8183671796931,-27.4906962701494]}",si,si,si,si,si,si,si,no,no,no,no,no,no,no
+S.A.P.S. Centro de Vacunacion,"{""type"":""Point"",""coordinates"":[-58.8384384354732,-27.4613563015641]}",,,,,,,,,,,,,,
+S.A.P.S. Santa Margarita,"{""type"":""Point"",""coordinates"":[-58.7609506333706,-27.536317341198]}",no,si,si,no,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Dr. Marcelino Vera - Bo CaÃ±ada Quiroz,"{""type"":""Point"",""coordinates"":[-58.7362643293002,-27.5430623480442]}",no,si,si,no,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Dr. Chercoff,"{""type"":""Point"",""coordinates"":[-58.7170748237828,-27.4293974892267]}",,,,,,,,,,,,,,
+S.A.P.S. Bo Villa Chiquita,"{""type"":""Point"",""coordinates"":[-58.8060649227155,-27.4841257520561]}",no,si,si,no,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Dr. Manuel Cassuso,"{""type"":""Point"",""coordinates"":[-58.813187161036,-27.5078798886069]}",,,,,,,,,,,,,,
+S.A.P.S. 33 Gdor. Elias Galvan,"{""type"":""Point"",""coordinates"":[-58.8468579509342,-27.4857231975671]}",no,si,si,si,si,no,no,no,no,no,no,no,no,no
+S.A.P.S. Bo Cichero,"{""type"":""Point"",""coordinates"":[-58.8208726338129,-27.4591975171381]}",,,,,,,,,,,,,,
+S.A.P.S. Bo Esperanza,"{""type"":""Point"",""coordinates"":[-58.7854203033225,-27.5439948201212]}",si,si,si,si,si,si,no,no,no,no,no,no,no,no
+S.A.P.S. Bo Itati,"{""type"":""Point"",""coordinates"":[-58.8093436312496,-27.4627629738369]}",no,si,si,no,si,si,si,si,no,no,no,no,no,no
+S.A.P.S. Bo Anahi,"{""type"":""Point"",""coordinates"":[-58.798359321125,-27.4640966737108]}",no,si,si,si,si,si,si,si,no,no,no,no,no,si
+S.A.P.S. Bo. San Marcos,"{""type"":""Point"",""coordinates"":[-58.822726525709,-27.4888688230558]}",no,si,si,si,si,si,no,si,no,no,si,no,no,no
+S.A.P.S. Dr. Alberto Lifchitzs,"{""type"":""Point"",""coordinates"":[-58.8053591907517,-27.5077820670782]}",no,si,si,no,si,si,no,no,no,no,si,no,no,no
+S.A.P.S. Dra. Rossi Candia,"{""type"":""Point"",""coordinates"":[-58.8299788758305,-27.5035262565474]}",si,si,si,si,si,si,si,si,si,no,no,si,si,no
+S.A.P.S. Santa Marta,"{""type"":""Point"",""coordinates"":[-58.8418538628947,-27.5025042695548]}",no,si,si,no,si,si,si,no,no,no,no,no,no,no
+S.A.P.S. Dr. Blugerman,"{""type"":""Point"",""coordinates"":[-58.8522157423324,-27.4888184941666]}",si,si,si,si,si,si,no,si,no,no,no,no,no,no
+S.A.P.S. Dr. Mauricio Open,"{""type"":""Point"",""coordinates"":[-58.750011420054,-27.4475382375042]}",,,,,,,,,,,,,,
