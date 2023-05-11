@@ -5,10 +5,8 @@ import json
 
 import streamlit as st
 
-import streamlit as st
-
 # Agregar imagen
-image = Image.open('..\\corrientes-data\logo-mcc.png')
+image = Image.open('..\\logo-mcc.png')
 st.image()
 # Agregar título
 st.title("S.A.P.S. Corrientes Capital")
@@ -17,7 +15,7 @@ st.title("S.A.P.S. Corrientes Capital")
 st.write("En este reporte se intenta...")
 
 # Leer el archivo shapefile de barrios y crear un GeoDataFrame de GeoPandas
-barrios = gpd.read_file("..\\corrientes-data\barrios_de_la-ciudad.csv")
+barrios = gpd.read_file("..\\barrios_de_la-ciudad.csv")
 
 for i, row in barrios.iterrows():
     try:
@@ -28,7 +26,7 @@ for i, row in barrios.iterrows():
 barrios = barrios.drop([115, 116, 133, 134, 135, 136, 138])
 
 # Leer el archivo CSV y crear un GeoDataFrame de GeoPandas
-saps = gpd.read_file('..\\corrientes-data\vw_saps.csv')
+saps = gpd.read_file('..\\saps_completo.csv')
 
 # Crear objetos geométricos a partir de la columna "st_asgeojson"
 saps.geometry = saps["st_asgeojson"].apply(json.loads).apply(shape)
