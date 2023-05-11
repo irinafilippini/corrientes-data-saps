@@ -1,4 +1,4 @@
-# <img title="" src="file:///C:/Users/caro/Downloads/corrientes-data/logo-mcc.png" alt="" data-align="center">
+# <img title="" src="https://ciudaddecorrientes.gov.ar/sites/default/themes/ciudaddecorrientes/logo.png" alt="" data-align="center">
 
 # 🏥 S.A.P.S. Corrientes Capital 🏥
 
@@ -20,14 +20,14 @@ Por cuestiones de tiempo, decidí enfocarme en mostrar la totalidad de SAPS y qu
 
 
 
-![](C:\Users\caro\Downloads\tarjeta.png)
+![](https://github.com/irinafilippini/corrientes-data-saps/blob/main/tarjeta.png?raw=true)
 
-![](C:\Users\caro\Downloads\turnos_web_comp.png)
+![](https://github.com/irinafilippini/corrientes-data-saps/blob/main/turnos_web_comp.png?raw=true)
 
-![](C:\Users\caro\Downloads\turnos_web.png)
+![](https://github.com/irinafilippini/corrientes-data-saps/blob/main/turnos_web.png?raw=true)
 
 # Anexo
 
-![](C:\Users\caro\Downloads\atencion_psico.png)
+![](https://github.com/irinafilippini/corrientes-data-saps/blob/main/atencion_psico.png?raw=true)
 
-![](C:\Users\caro\Downloads\atencion_cardio.png)
+![](https://github.com/irinafilippini/corrientes-data-saps/blob/main/atencion_cardio.png?raw=true)
